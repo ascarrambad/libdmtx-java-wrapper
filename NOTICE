@@ -1,0 +1,44 @@
+libdmtx-java-wrapper — NOTICE
+=============================
+
+This software distribution bundles components governed by different open‑source licences.  The information below is provided to satisfy those licence requirements.
+
+---------------------------------------------------------------------
+1. *libdmtx* — Data Matrix encoder / decoder library
+---------------------------------------------------------------------
+* **Homepage:** https://github.com/dmtx/libdmtx
+* **Copyright:** © 2005‑2016 Mike Laughton, Vadim A. Misbakh‑Soloviov and others
+* **Licence:** Simplified BSD (full text reproduced verbatim below)
+
+No changes have been made to the *libdmtx* source code beyond compilation into the static/shared objects shipped in this package.
+
+---------------------------------------------------------------------
+2. Java JNI wrapper, build tooling and examples
+---------------------------------------------------------------------
+* **Authors:** Pete Calvert, Dikran Seropian (original JNI); additional modifications © 2025 Matteo Riva
+* **Licence:** GNU Lesser General Public License (**LGPL**) v2.1 or (at your option) any later version.
+
+A copy of the LGPL v2.1 should accompany this distribution (see `COPYING.LESSER`).  If not, you can obtain it at <https://www.gnu.org/licenses/old-licenses/lgpl‑2.1.html>.
+
+---------------------------------------------------------------------
+Simplified BSD Licence (for *libdmtx*)
+---------------------------------------------------------------------
+
+Copyright 2005‑2016 Mike Laughton, Vadim A. Misbakh‑Soloviov and others.
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of the libdmtx project.
+
+---------------------------------------------------------------------
+Alternate terms (per *libdmtx* licence)
+---------------------------------------------------------------------
+Redistributions in binary form, with or without modification, are permitted without including the above copyright notice, list of conditions, and disclaimer if express written permission has been obtained from **Dragonfly Logic, Inc.**
+
